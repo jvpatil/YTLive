@@ -1,11 +1,9 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
-https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-TV9 Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316 |
-https://www.youtube.com/watch?v=II_m28Bm-iM
+TV9 Kannada | Kannada | https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png |
+https://www.youtube.com/channel/UC8dnBi4WUErqYQHZ4PfsLTg/live
 
 Asianet Suvarna News | Kannada | https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg |
 https://www.youtube.com/channel/UCjElJyiXmQXnWmceQ1JyKrA/live
@@ -13,11 +11,20 @@ https://www.youtube.com/channel/UCjElJyiXmQXnWmceQ1JyKrA/live
 TV5 Kannada | Kannada | http://www.tv5kannada.com/images/logo.png |
 https://www.youtube.com/channel/UCpzsmNuUEmod64DGgBDPO-Q/live
 
-TV9 Kannada | Kannada | https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png |
-https://www.youtube.com/channel/UC8dnBi4WUErqYQHZ4PfsLTg/live
+R.Kannada | Kannada | https://img.republicworld.com/logo/kannada/R.Kannada-logo.svg |
+https://www.youtube.com/watch?v=y_704-AtGWg
 
 NewsFirst Kannada | Kannada | |
 https://www.youtube.com/channel/UCFRlIV1mX-traJb5fd7S3nw/live
+
+Firstpost | English | https://upload.wikimedia.org/wikipedia/commons/4/41/Firstpost_logo.jpg |
+https://www.youtube.com/watch?v=sOdxaESYdHw
+
+India Today | English | https://upload.wikimedia.org/wikipedia/commons/b/be/India_Today_TV_Channel_logo.jpg |
+https://www.youtube.com/watch?v=F62gvYc01B8
+
+Republic TV | English | https://img.republicworld.com/logo/english/republic-logo.svg |
+https://www.youtube.com/watch?v=zfB7UwmuekE
 
 Best Shuffle Dance Music 2021 | Entertainment | |
 https://www.youtube.com/watch?v=qWf-FPFmVw0
@@ -34,15 +41,13 @@ https://www.youtube.com/watch?v=Nq2wYlWFucg
 Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
-WB Kids live | Kids | |
-https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
-
-DC Kids live | Kids | |
-https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live
-
 News 18 Kannada | Kannada | |
 https://www.youtube.com/channel/UCa-vioGhe2btBcZneaPonKA/live
 
-Wion | English | |
-https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
+
+ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
+https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
+
+TV9 Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316 |
+https://www.youtube.com/watch?v=II_m28Bm-iM
