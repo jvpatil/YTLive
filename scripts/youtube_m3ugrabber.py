@@ -26,13 +26,13 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/channel_not_available.m3u')
+                print('https://raw.githubusercontent.com/jvpatil/YTLive/main/assets/channel_not_available.m3u')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/channel_not_available.m3u')
+                print('https://raw.githubusercontent.com/jvpatil/YTLive/main/assets/channel_not_available.m3u')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -49,7 +49,7 @@ def grab(url):
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 print(banner)
 #s = requests.Session()
-with open('../channels_to_extract.txt') as f:
+with open('/Users/JPs/WorkSpace/TV/YTLive/channels_to_extract.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
