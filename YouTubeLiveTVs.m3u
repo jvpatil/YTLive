@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTM3U  x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 
 
 #EXTINF:-1 tvg-id="1" group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png", TV9 Kannada
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712878235/ei/Ox4YZp_vCNCIkucPy6WbyAU/ip/74.249.14.183/id/yJryGLq2Iro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4mf2hTDYXALQRpi1NJm6Nm23ASATtFmUV-SNt81c2sgx_D2NFQx6SkY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIhe2gUFg9k5urOAHNdrFkCZF2ifvYg0xYZL_K2c6suACID1C8bHf_bW7Kgk8hV5skGty9ZqoU-iZH2VARj8CmoaJ/file/index.m3u8
