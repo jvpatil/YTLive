@@ -37,6 +37,7 @@ def grab(url):
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 #s = requests.Session()
 with open('../channels_to_extract.txt') as f:
+    chID = 0
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
@@ -47,6 +48,9 @@ with open('../channels_to_extract.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
+            if tvg_id == "":
+                chID = chID+1
+                tvg_id = chID
             print(f'\n#EXTINF:-1 tvg-id="{tvg_id}" group-title="{grp_title}" tvg-logo="{tvg_logo}", {ch_name}')
             # print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
